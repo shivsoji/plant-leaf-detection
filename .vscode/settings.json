@@ -1,0 +1,7 @@
+{
+  "java.import.gradle.enabled": true,
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "kotlin.languageServer.enabled": true,
+  "java.project.sourcePaths": ["src/main/java", "src/main/kotlin"]
+}
